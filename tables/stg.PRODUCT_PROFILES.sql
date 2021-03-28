@@ -3,13 +3,13 @@ Test 123
 NAME: stg.PRODUCT_PROFILES
 PURPOSE: Create the product profiles stage table
 
-SUPPORT: Kizy Matzenbacher
-         kizymatzen@gmail.com
+SUPPORT: Douglas Silva
+         douglasmatias21@gmail.com
 
 MODIFICATION LOG:
 Ver       Date         Author       Description
 -------   ----------   ----------   -----------------------------------------------------------------------------
-1.0       03/22/2020   KMATZEN      1. Built this script for LDS BC IT 243
+1.0       03/25/2021   DSILVA     1. Built this script for LDS BC IT 243
 
 
 RUNTIME: 
