@@ -5,7 +5,7 @@ GO
 DROP VIEW [etl].[v_naics_code_hier_load]
 GO
 
-/****** Object:  View [etl].[v_naics_code_hier_load]    Script Date: 3/15/2021 11:30:38 PM ******/
+/****** Object:  View [etl].[v_naics_code_hier_load]    Script Date: 3/15/2021 11:30:38 PM ******/ 
 SET ANSI_NULLS ON
 GO
 

@@ -6,7 +6,7 @@ DROP VIEW [etl].[v_naics_code]
 GO
 
 /****** Object:  View [etl].[v_naics_code]    Script Date: 3/15/2021 11:01:28 PM ******/
-SET ANSI_NULLS ON
+SET ANSI_NULLS ON 
 GO
 
 SET QUOTED_IDENTIFIER ON
