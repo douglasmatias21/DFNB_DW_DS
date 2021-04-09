@@ -4,7 +4,7 @@ NAME: stg.PRODUCT_PROFILES
 PURPOSE: Create the product profiles stage table
 
 SUPPORT: Douglas Silva
-         douglasmatias21@gmail.com
+         douglasmatias21@gmail.com 
 
 MODIFICATION LOG:
 Ver       Date         Author       Description

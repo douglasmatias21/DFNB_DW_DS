@@ -6,7 +6,7 @@ SUPPORT: Jaussi Consulting LLC
          www.jaussiconsulting.net
          jon@jaussiconsulting.net
 
-MODIFICATION LOG:
+MODIFICATION LOG: 
 Ver       Date         Author       Description
 -------   ----------   ----------   -----------------------------------------------------------------------------
 1.0       11/17/2019   JJAUSSI      1. Built this script for LDS BC IT 243
