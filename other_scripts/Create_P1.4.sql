@@ -29,7 +29,7 @@ distributed under the same license terms.
 ******************************************************************************************************************/
 
 
--- 1) Drop contraints
+-- 1) Drop contraints  
 
 -- Q1: How to drop tables with Foreign Keys?
 
