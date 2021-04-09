@@ -1,11 +1,11 @@
 USE [DFNB3]
 GO
 
-/****** Object:  View [etl].[v_naics_code]    Script Date: 3/5/2021 11:01:28 PM ******/
+/****** Object:  View [etl].[v_naics_code]    Script Date: 3/15/2021 11:01:28 PM ******/
 DROP VIEW [etl].[v_naics_code]
 GO
 
-/****** Object:  View [etl].[v_naics_code]    Script Date: 3/5/2021 11:01:28 PM ******/
+/****** Object:  View [etl].[v_naics_code]    Script Date: 3/15/2021 11:01:28 PM ******/
 SET ANSI_NULLS ON
 GO
 
@@ -21,7 +21,7 @@ PURPOSE: Create the etl.v_naics_code view
 MODIFICATION LOG:
 Ver      Date        Author        Description
 -----   ----------   -----------   -------------------------------------------------------------------------------
-1.0     03/05/2021   KMATZEN       1. Built this view for ENSIGN IT240
+1.0     03/15/2021   DSILVA       1. Built this view for ENSIGN IT240
 
 
 

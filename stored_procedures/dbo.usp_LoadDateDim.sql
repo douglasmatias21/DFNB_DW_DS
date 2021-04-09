@@ -22,13 +22,13 @@ BEGIN
 NAME:    dbo.usp_LoadDateDim
 PURPOSE: Load the Date Dimension table
 
-SUPPORT: Kizy Matzenbacher
-		 kizymatzen@gmail.com
+SUPPORT: Douglas Silva
+		 douglasmatias21@gmail.com
 
 MODIFICATION LOG:
 Ver       Date         Author       Description
 -------   ----------   ----------   -----------------------------------------------------------------------------
-1.0       03/20/2020   KMATZEN      1. Enhance with @v_num_days for better precision
+1.0       03/25/2020   DSILVA      1. Enhance with @v_num_days for better precision
 
 RUNTIME: 
 1 sec

@@ -1,12 +1,12 @@
 USE [DFNB3];
 GO
 
-/****** Object:  StoredProcedure [dbo].[usp_LoadNAICSCodeHier]    Script Date: 3/5/2021 11:40:50 PM ******/
+/****** Object:  StoredProcedure [dbo].[usp_LoadNAICSCodeHier]    Script Date: 3/15/2021 11:40:50 PM ******/
 
 DROP PROCEDURE dbo.usp_LoadNAICSCodeHier;
 GO
 
-/****** Object:  StoredProcedure [dbo].[usp_LoadNAICSCodeHier]    Script Date: 3/5/2021 11:40:50 PM ******/
+/****** Object:  StoredProcedure [dbo].[usp_LoadNAICSCodeHier]    Script Date: 3/15/2021 11:40:50 PM ******/
 
 SET ANSI_NULLS ON;
 GO
@@ -23,7 +23,7 @@ PURPOSE: Load the NAICS Code Hierarchy
 MODIFICATION LOG:
 Ver      Date        Author        Description
 -----   ----------   -----------   -------------------------------------------------------------------------------
-1.0     03/05/2021   KMATZEN       1. Built this view for ENSIGN IT240
+1.0     03/15/2021   DSILVA       1. Built this view for ENSIGN IT240
 
 
 

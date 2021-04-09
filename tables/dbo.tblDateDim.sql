@@ -2,13 +2,13 @@
 NAME:    dbo.tblDateDim
 PURPOSE: Create the Date Dimension table
 
-SUPPORT: Kizy Matzenbacher
-         kizymatzen@gmail.com
+SUPPORT: Douglas Silva
+         douglasmatias21@gmail.com
 
 MODIFICATION LOG:
 Ver       Date         Author       Description
 -------   ----------   ----------   -----------------------------------------------------------------------------
-1.0       03/20/2020   KMATZEN      1. Built this script for LDS BC IT 243
+1.0       03/25/2020   DSILVA      1. Built this script for LDS BC IT 243
 
 
 RUNTIME: 
