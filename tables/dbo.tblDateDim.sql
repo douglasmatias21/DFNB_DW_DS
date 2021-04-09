@@ -3,7 +3,7 @@ NAME:    dbo.tblDateDim
 PURPOSE: Create the Date Dimension table
 
 SUPPORT: Douglas Silva
-         douglasmatias21@gmail.com
+         douglasmatias21@gmail.com 
 
 MODIFICATION LOG:
 Ver       Date         Author       Description
