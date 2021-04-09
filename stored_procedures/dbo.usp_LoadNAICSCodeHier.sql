@@ -7,7 +7,7 @@ DROP PROCEDURE dbo.usp_LoadNAICSCodeHier;
 GO
 
 /****** Object:  StoredProcedure [dbo].[usp_LoadNAICSCodeHier]    Script Date: 3/15/2021 11:40:50 PM ******/
-
+ 
 SET ANSI_NULLS ON;
 GO
 

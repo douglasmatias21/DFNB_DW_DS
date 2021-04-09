@@ -36,7 +36,7 @@ RUNTIME:
 NOTES: 
 Load the Date Dimension - inspired by the Kimball Group's Calendar Date Dimension
 
-Example usage...
+Example usage... 
 
 EXEC dbo.usp_LoadDateDim 250;
 

@@ -23,7 +23,7 @@ PURPOSE: Load the NAICS Code Hierarchy
 MODIFICATION LOG:
 Ver      Date        Author        Description
 -----   ----------   -----------   -------------------------------------------------------------------------------
-1.0     03/03/2021   Grace Chu       1. Built this table for LDS BC IT240
+1.0     03/03/2021   DSILVA       1. Built this table for LDS BC IT240
      
 
 RUNTIME: 

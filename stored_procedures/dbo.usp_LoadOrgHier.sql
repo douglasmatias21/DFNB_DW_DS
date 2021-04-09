@@ -13,7 +13,7 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 
-
+ 
 
 CREATE PROCEDURE [dbo].[usp_LoadRegionDim] 
 AS
@@ -25,7 +25,7 @@ PURPOSE: Create and Load the dbo.Nums table
 MODIFICATION LOG:
 Ver      Date        Author        Description
 -----   ----------   -----------   -------------------------------------------------------------------------------
-1.0     03/24/2021   GraceChu       1. Built this table for LDS BC IT243
+1.0     03/24/2021   DSILVA       1. Built this table for LDS BC IT243
 
 
 

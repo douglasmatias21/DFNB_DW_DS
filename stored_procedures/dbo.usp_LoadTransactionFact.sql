@@ -30,7 +30,7 @@ MODIFICATION LOG:
 Ver       Date         Author       Description
 -------   ----------   ----------   -----------------------------------------------------------------------------
 1.0       11/17/2019   JJAUSSI      1. Built this starter script for LDS BC IT 243
-1.1       03/17/2021   GRACRCHU     1. Enhance with @v_num_days for better precision
+1.1       03/17/2021   DSILVA     1. Enhance with @v_num_days for better precision
 
 RUNTIME: 
 1 sec
